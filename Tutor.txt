@@ -1,0 +1,6 @@
+git init
+git add <file> / git add .
+git status
+git config --global user.name "Name"
+git config --global user.email "email"
+git commit -m "message"
